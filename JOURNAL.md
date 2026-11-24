@@ -16,6 +16,8 @@ I also started doing some research into some designs like this including commerc
 This GitHub repository was also set up being made private for now.
 
 **Total time spent: 1h**
+![](https://fabricate.hackclub-assets.com/52dc44b996f54b122883bd3b7b3da9b939de81fe6cd685d92abe128106134d84/image-png/image.png)
+
 
 
 ## November 23, 2026: Planning Objectives and Starting BOM
@@ -28,6 +30,9 @@ I also added links and started calculating costs as well to make sure I don't bl
 
 **Total time spent: 1h**
 
+![](https://fabricate.hackclub-assets.com/0453621364fe8bc0adfe49fc11a72525738833b357719dc4d0abf471e66cfc08/image-png/image.png)
+
+
 
 ## November 24, 2026: Finishing the BOM and starting PCB design
 
@@ -35,10 +40,17 @@ I finished up the BOM going back and forth on small things like whether I use M3
 
 I still chose to go with the Pi 3B+ however as it is not only cheap, but also available to almost anyone. I want to ensure that everyone could make it by using older, more outdated products but also by using these older products, I can ensure that they can in fact be used for my project.
 
-After producing a rough draft of my BOM I worked on bringing the price down from $295 AUD to $275 minimum. I did this by checking other retailers and replacing or removing unecessary parts from the BOM. In the end I was able to save $60 going to $235.34 without shipping which is about $155.85 USD.
+After producing a rough draft of my BOM I worked on bringing the price down from $295 AUD to $275 minimum. I did this by checking other retailers and replacing or removing unnecessary parts from the BOM. In the end I was able to save $60 going to $235.34 without shipping which is about $155.85 USD.
 
 After finalising my sensors that I wished to be added, I found their respectable LCSC Electronics part numbers and jumped onto Easy EDA to lay out my schematic. 
 
+A lot of time today was me doing way too much trying to cut a few dollars off every part. Most of the savings made today was from removing things that just weren't required. WHY IS IT ALL SO EXPENSIVE!! 
+
+To ensure everyone would pay a similar price for all materials, I specifically chose to avoid jumping onto a resale market or buy things secondhand or used to ensure everyone receives an equal pricing on their versions of my design.
+
 I also made this repository public.
 
-**Total time spent: 7.2h**
+**Total time spent: 7h**
+
+![](https://fabricate.hackclub-assets.com/f8829053fd94dc803d65d7ecc7bd03242d5f929b8f3e0aa441488be87594a75a/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/053abdf2280e827231a44a0d24ec75c878ae3ed5688ca21f596c5d185ae4934f/image-png/image.png)
